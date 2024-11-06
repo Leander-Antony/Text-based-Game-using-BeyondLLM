@@ -2,7 +2,7 @@
 
 Welcome to the **24 Hours of a Normal Human** interactive text-based game! In this game, you will guide Charles Sterling, a 45-year-old CEO who finds himself in the body of a 17-year-old teenager, Jake Miller. Your mission is to uncover the mystery behind this strange situation and navigate Jake's life for 24 hours.
 
-![Game Background](https://github.com/Leander-Antony/BeyondLLM/blob/main/Text%20based%20Game%20using%20BeyondLLM/background.jpg)
+![Game Background](background.jpg)
 
 ## Features
 - **Interactive Gameplay**: Experience an engaging narrative as you make choices for Charles Sterling.
